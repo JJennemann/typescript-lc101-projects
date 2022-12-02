@@ -9,3 +9,4 @@ export class Cargo implements Payload{
     }
 
 }
+ 
